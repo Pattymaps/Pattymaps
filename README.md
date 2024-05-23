@@ -1,6 +1,6 @@
 # Welcome to My Github Profile! 
 
-<img src="C:\Users\PatieM\Downloads\4882_0140961.jpg" alt="Header Image" width="100%">
+<img src="https://C:\Users\PatieM\Downloads\4882_0140961.jpg.com/footer.jpg" alt="Header Image" width="100%">
 
 ## Hi there, I'm Patrcia Sekai Mapimbiro! 👋
 
