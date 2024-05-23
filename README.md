@@ -1,6 +1,7 @@
 # Welcome to My Github Profile! 
 
-![4882_0140961](https://github.com/Pattymaps/Pattymaps/assets/170188009/cdf3400e-c990-4412-b52f-35a70144a59a)
+![rsz_4882_0140961](https://github.com/Pattymaps/Pattymaps/assets/170188009/0079db3c-92ca-43dc-b71d-111252cda87d)
+
 
 ## Hi there, I'm Patrcia Sekai Mapimbiro! 👋
 
@@ -28,4 +29,4 @@ Iam a passionate software developer with a love for creating amazing application
 - LinkedIn: [www.linkedin.com/in/patricia-mapimbiro-700040197]
 - Email: [mapimbiropatricia@gmail.com]
 
-<img src="C:\Users\PatieM\Downloads\4882_0140961.jpg" alt="Footer Image" width="100%">
+
