@@ -1,6 +1,7 @@
 # Welcome to My Github Profile! 
 
-<img src="https://C:\Users\PatieM\Downloads\4882_0140961.com/footer.jpg" alt="Header Image" width="100%">
+<img src="![4882_0140961](https://github.com/Pattymaps/Pattymaps/assets/170188009/19b305b6-90da-4c1e-ab70-fcf7610a8a6d)
+" alt="Header Image" width="100%">
 
 ## Hi there, I'm Patrcia Sekai Mapimbiro! 👋
 
